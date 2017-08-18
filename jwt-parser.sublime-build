@@ -1,0 +1,5 @@
+{
+	"cmd": ["node","d:/st-jwt-parser/parser.js", "$file"],
+	"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+	"selector": "source.javascript"
+}
